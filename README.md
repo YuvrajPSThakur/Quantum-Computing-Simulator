@@ -1,6 +1,6 @@
-# qcsimfinal
+# Quantum Computing Simulator
 
-A new Flutter application.
+A new Flutter application which demonstrate the working of Quantum bits and Gates using a Puzzle game.
 
 ## Getting Started
 
